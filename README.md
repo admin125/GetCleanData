@@ -22,13 +22,14 @@ Since the activities are numbers in the df, the scripts modifies them from numbe
 
 
 ------------------Step 5 (Create summarized data) -----------------------------------------------
- Script converts the dataframe to tbl_df so it easier to do computations,
- groups it by Subject,Activity and computes the mean over all the columns
- using the summarize_each function. 
- Finally, prefix the variable names with 'Avg_' since they are all average values.
- Print to console,
- Save to file
- Cleanup intermediate results and leave the result (res) in the environment.
+
+Script converts the dataframe to tbl_df so it easier to do computations,
+groups it by Subject,Activity and computes the mean over all the columns
+using the summarize_each function. 
+Finally, prefix the variable names with 'Avg_' since they are all average values.
+Print to console,
+Save to file
+Cleanup intermediate results and leave the result (res) in the environment.
 
 
 
