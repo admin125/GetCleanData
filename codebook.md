@@ -1,5 +1,5 @@
  *[1] "Subject"                                         Person (unique ID per person)                 
- *[2] "Activity"                                       Activitity that person performed  (unit=enumeration(LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS)
+ *[2] "Activity"                                       Activitity that person performed  (unit=enumeration(LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS))
  *[3] "Avg_tBodyAcc-mean()-X"                          Average of Body Acceleration Average Signal in X-direction (unit=Time)
  *[4] "Avg_tBodyAcc-mean()-Y"                          Average of Body Acceleration Average Signal in Y-direction (unit=Time)
  *[5] "Avg_tBodyAcc-mean()-Z"                          Average of Body Acceleration Average Signal in Z-direction (unit=Time)
